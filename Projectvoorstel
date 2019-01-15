@@ -22,20 +22,24 @@ Het doel van de webapplicatie is om twee of meer spelers gelijktijdig vragen te 
 ## 3. Features
 
 1. **Gebruikers kunnen een spel aanmaken** 
-2. **Gebruikers kunnen via een eigen device meespelen met een bestaand spel**
-3. Gebruikers kunnen een maximaal aantal te behalen punten instellen voordat een speler gewonnen heeft
+2. **Gebruikers kunnen via een eigen device meespelen met een bestaand spel door middel van een unieke code**
+3. Gebruikers kunnen een maximaal aantal te behalen punten instellen voordat een speler gewonnen heeft.
+	- Standaard is dit tien punten.
+	- Een punt krijg je bij het goed beantwoorden van een vraag of via speciale kaarten.
+	- Punten kunnen ook verloren worden.
+	- Een van de speciale kaarten maakt het mogelijk het potje direct te winnen, zonder de nodige punten.
 4. **Gebruikers kunnen om beurten vragen beantwoorden**
 	- **Er is bovenaan de pagina een vraag te zien**
 	- **Onderaan kan er een antwoord worden gekozen**
 5. **Gebruikers kunnen tijdens iedere vraag:**
-	- **de punten van alle spelers zien**
+	- **de punten van alle spelers zien langs een kant van het scherm**
 6.  **Gebruikers kunnen na iedere vraag zien of de vraag goed of fout is beantwoord**
-7. Gebruikers kunnen bij een bepaald puntenaantal kiezen voor speciale kaarten om:
-	- meer punten te behalen
-	- het andere spelers lastiger te maken
+7. Gebruikers krijgen na een goed beantwoorde vraag een speciale kaart:
+	- om meer punten te behalen
+	- om het andere spelers lastiger te maken
 8. **Gebruikers kunnen zien wanneer ze gewonnen hebben**
 9. Gebruikers kunnen zien wie de meeste spellen heeft gewonnen
-10. Gebruikers kunnen kiezen vragen die een bepaald thema hebben
+10. Gebruikers kunnen kiezen voor vragen die een bepaald thema hebben
 11. Gebruikers hebben een maximale tijd om een vraag te beantwoorden
 12. Gebruikers kunnen een spel opslaan, zodat ze er later verder mee kunnen gaan
 
